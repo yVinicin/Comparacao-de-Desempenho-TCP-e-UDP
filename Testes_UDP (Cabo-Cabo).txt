@@ -1,0 +1,319 @@
+--------------------------- 100 bytes ---------------------------
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2697 segundos
+Throughput: 1112.20 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2230 segundos
+Throughput: 1345.37 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2114 segundos
+Throughput: 1419.24 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2104 segundos
+Throughput: 1425.56 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2040 segundos
+Throughput: 1470.82 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 1.9781 segundos
+Throughput: 1516.60 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 1.7334 segundos
+Throughput: 1730.70 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 1.7393 segundos
+Throughput: 1724.86 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.5083 segundos
+Throughput: 1196.03 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4962 segundos
+Throughput: 1201.81 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 25.0090 segundos
+Throughput: 1199.57 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 23.4473 segundos
+Throughput: 1279.46 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 25.8331 segundos
+Throughput: 1161.30 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 9999
+Mensagens perdidas: 1
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.3369 segundos
+Throughput: 1232.69 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.1932 segundos
+Throughput: 1240.02 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+
+--------------------------- 500 bytes ---------------------------
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.3884 segundos
+Throughput: 772.35 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2512 segundos
+Throughput: 1194.22 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2551 segundos
+Throughput: 1176.07 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2522 segundos
+Throughput: 1189.56 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2536 segundos
+Throughput: 1183.07 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.6590 segundos
+Throughput: 1128.24 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.5043 segundos
+Throughput: 1197.92 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4560 segundos
+Throughput: 1221.48 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4001 segundos
+Throughput: 1249.95 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.1294 segundos
+Throughput: 1408.88 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 21.2649 segundos
+Throughput: 1410.77 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.0277 segundos
+Throughput: 1248.56 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.5755 segundos
+Throughput: 1220.73 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 23.2745 segundos
+Throughput: 1288.96 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.5886 segundos
+Throughput: 1220.08 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+
+--------------------------- 1000 bytes ---------------------------
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.5080 segundos
+Throughput: 590.55 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2591 segundos
+Throughput: 1157.79 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2555 segundos
+Throughput: 1174.21 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2366 segundos
+Throughput: 1267.88 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 0.2527 segundos
+Throughput: 1187.07 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4599 segundos
+Throughput: 1219.55 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.3242 segundos
+Throughput: 1290.79 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4303 segundos
+Throughput: 1234.41 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4030 segundos
+Throughput: 1248.46 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 2.4565 segundos
+Throughput: 1221.27 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.1018 segundos
+Throughput: 1244.72 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.6830 segundos
+Throughput: 1215.41 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.0824 segundos
+Throughput: 1245.72 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 23.6978 segundos
+Throughput: 1265.94 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES UDP ---
+Tempo total de envio: 24.0611 segundos
+Throughput: 1246.82 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0

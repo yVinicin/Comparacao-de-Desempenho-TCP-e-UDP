@@ -1,0 +1,319 @@
+--------------------------- 100 bytes ---------------------------
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.8699 segundos
+Throughput: 344.86 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.8653 segundos
+Throughput: 346.69 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.9077 segundos
+Throughput: 330.52 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7673 segundos
+Throughput: 390.99 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.8241 segundos
+Throughput: 364.04 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.9437 segundos
+Throughput: 377.66 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.9810 segundos
+Throughput: 375.89 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 8.7239 segundos
+Throughput: 343.88 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 8.0052 segundos
+Throughput: 374.76 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.9311 segundos
+Throughput: 378.26 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 82.4777 segundos
+Throughput: 363.73 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 76.0061 segundos
+Throughput: 394.70 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 75.9047 segundos
+Throughput: 395.23 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 75.8421 segundos
+Throughput: 395.56 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 77.2906 segundos
+Throughput: 388.15 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+
+--------------------------- 500 bytes ---------------------------
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7251 segundos
+Throughput: 413.75 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7653 segundos
+Throughput: 391.98 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7500 segundos
+Throughput: 400.01 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7602 segundos
+Throughput: 394.64 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7467 segundos
+Throughput: 401.78 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.3812 segundos
+Throughput: 406.44 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.6342 segundos
+Throughput: 392.97 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.5964 segundos
+Throughput: 394.92 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.5954 segundos
+Throughput: 394.98 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.9243 segundos
+Throughput: 378.58 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 79.4160 segundos
+Throughput: 377.76 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 81.9880 segundos
+Throughput: 365.91 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 81.9270 segundos
+Throughput: 366.18 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 77.7810 segundos
+Throughput: 385.70 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 74.1446 segundos
+Throughput: 404.61 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+
+--------------------------- 1000 bytes ---------------------------
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7520 segundos
+Throughput: 398.96 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7925 segundos
+Throughput: 378.53 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7649 segundos
+Throughput: 392.22 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.8451 segundos
+Throughput: 355.00 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 0.7933 segundos
+Throughput: 378.19 bytes/segundo
+Mensagens enviadas: 100
+Mensagens recebidas: 100
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 8.0461 segundos
+Throughput: 372.85 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 7.9786 segundos
+Throughput: 376.00 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 8.0227 segundos
+Throughput: 373.94 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 9.0778 segundos
+Throughput: 330.48 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 8.1993 segundos
+Throughput: 365.88 bytes/segundo
+Mensagens enviadas: 1000
+Mensagens recebidas: 1000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 91.8800 segundos
+Throughput: 326.51 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 74.9041 segundos
+Throughput: 400.51 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 74.4346 segundos
+Throughput: 403.04 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 81.7138 segundos
+Throughput: 367.14 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
+
+--- MEDIÇÕES TCP ---
+Tempo total de envio: 74.1613 segundos
+Throughput: 404.52 bytes/segundo
+Mensagens enviadas: 10000
+Mensagens recebidas: 10000
+Mensagens perdidas: 0
