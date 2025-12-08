@@ -1,55 +1,69 @@
-### Universidade Estadual do Oeste do Paraná
-### Disciplina: Redes de Computadores
+# 📡 Comparação de Desempenho TCP vs UDP
 
----
+> Análise prática e comparativa de desempenho entre os protocolos de transporte TCP e UDP, desenvolvida para a disciplina de Redes de Computadores.
 
-#### **Trabalho proposto:**
-- Implementar um cliente e um servidor.
-- Realizar trocas de mensagens entre eles com diferentes parametros (tamanho de mesagem e número de repetições).
-- Detalhes podem ser vistos no PDF [Trabalho Redes 2025 - Desempenho TCP e UDP](https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP/blob/main/Trabalho%20Redes%202025%20-%20Desempenho%20TCP%20e%20UDP.pdf).
+![Badge Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![Badge Network](https://img.shields.io/badge/Topic-Computer%20Networks-blue?logo=cisco&logoColor=white)
+![Badge Academic](https://img.shields.io/badge/Type-Academic%20Project-orange)
 
----
+## 🏫 Sobre o Projeto
 
-### Execução (Linux):
-- Servidor (TCP)
-```
-pyhton3 servidor.py tcp <msg> <tam_msg> <num_repeticoes>
-```
+Este projeto foi desenvolvido como parte da avaliação da disciplina de **Redes de Computadores** da **Universidade Estadual do Oeste do Paraná (Unioeste)**.
 
-- Servidor (UDP)
-```
-pyhton3 servidor.py udp <msg> <tam_msg> <num_repeticoes>
-```
+O objetivo é implementar uma aplicação cliente-servidor capaz de transmitir dados via **TCP** (orientado a conexão) e **UDP** (não orientado a conexão), permitindo a medição e comparação de métricas como tempo de envio, latência e confiabilidade em diferentes cenários (Localhost, Cabo-Cabo, Wi-Fi).
 
-- Cliente (TCP)
-```
-pyhton3 cliente.py tcp <msg> <tam_msg> <num_repeticoes>
+## 📂 Estrutura do Projeto
+
+```bash
+Comparacao-de-Desempenho-TCP-e-UDP/
+├── servidor.py    # Script que recebe as requisições (TCP/UDP)
+├── cliente.py     # Script que envia os dados e mede o tempo
+├── protocolos.py  # Definições comuns e utilitários
+├── Relatório...   # Análise detalhada dos testes realizados
+└── Testes_...txt  # Logs com os resultados obtidos nos cenários
 ```
 
-- Cliente (UDP)
-```
-pyhton3 cliente.py udp <msg> <tam_msg> <num_repeticoes>
-```
+## 🚀 Como Executar
 
----
+Certifique-se de ter o **Python 3** instalado. A execução requer que o **servidor** seja iniciado antes do **cliente**.
 
-### Execução (Windows):
-- Servidor (TCP)
-```
-pyhton servidor.py tcp <msg> <tam_msg> <num_repeticoes>
-```
+### Sintaxe Geral
+Os scripts esperam argumentos na seguinte ordem:
+`python arquivo.py <protocolo> <mensagem> <tamanho_bytes> <repeticoes>`
 
-- Servidor (UDP)
-```
-pyhton servidor.py udp <msg> <tam_msg> <num_repeticoes>
-```
+### Passo a passo
 
-- Cliente (TCP)
-```
-pyhton cliente.py tcp <msg> <tam_msg> <num_repeticoes>
-```
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git
+    cd Comparacao-de-Desempenho-TCP-e-UDP
+    ```
 
-- Cliente (UDP)
-```
-pyhton cliente.py udp <msg> <tam_msg> <num_repeticoes>
-```
+2.  **Inicie o Servidor:**
+    Escolha o protocolo (tcp ou udp) e defina os parâmetros.
+    * **Linux/Mac:**
+      ```bash
+      python3 servidor.py tcp "Teste" 1024 100
+      ```
+    * **Windows:**
+      ```bash
+      python servidor.py tcp "Teste" 1024 100
+      ```
+
+3.  **Inicie o Cliente:**
+    Em outro terminal, execute o cliente com os mesmos parâmetros para iniciar a transmissão.
+    * **Linux/Mac:**
+      ```bash
+      python3 cliente.py tcp "Teste" 1024 100
+      ```
+    * **Windows:**
+      ```bash
+      python cliente.py tcp "Teste" 1024 100
+      ```
+
+## 📊 Cenários de Teste
+
+Os arquivos `.txt` no repositório contêm resultados de testes realizados em diferentes meios físicos:
+* **Localhost:** Comunicação interna na mesma máquina.
+* **Cabo-Cabo:** Dois computadores conectados via Ethernet.
+* **Wi-Fi:** Comunicação via rede sem fio.
