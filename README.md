@@ -14,28 +14,34 @@ O objetivo é implementar uma aplicação cliente-servidor capaz de transmitir d
 
 ## 📂 Estrutura do Projeto
 
+Os arquivos estão organizados da seguinte forma:
+
 ```bash
 Comparacao-de-Desempenho-TCP-e-UDP/
-├── servidor.py    # Script que recebe as requisições (TCP/UDP)
-├── cliente.py     # Script que envia os dados e mede o tempo
-├── protocolos.py  # Definições comuns e utilitários
-├── Relatório...   # Análise detalhada dos testes realizados
-└── Testes_...txt  # Logs com os resultados obtidos nos cenários
+├── src/
+│   ├── cliente.py        # Script do Cliente (envia dados e mede tempo)
+│   ├── servidor.py       # Script do Servidor (recebe requisições)
+│   └── protocolos.py     # Módulo com definições e funções auxiliares
+├── testes/
+│   ├── Testes_TCP (...).txt   # Logs de resultados dos testes TCP
+│   └── Testes_UDP (...).txt   # Logs de resultados dos testes UDP
+├── Relatório UDP_TCP - Thalita e Vinicius Mattos.pdf  # Relatório técnico final
+├── Trabalho Redes 2025 - Desempenho TCP e UDP.pdf     # Enunciado do trabalho
+└── README.md
 ```
 
 ## 🚀 Como Executar
 
-Certifique-se de ter o **Python 3** instalado. A execução requer que o **servidor** seja iniciado antes do **cliente**.
+Certifique-se de ter o **Python 3** instalado. Como os scripts estão na pasta `src`, você deve executá-los a partir da raiz do projeto referenciando o caminho.
 
 ### Sintaxe Geral
-Os scripts esperam argumentos na seguinte ordem:
-`python arquivo.py <protocolo> <mensagem> <tamanho_bytes> <repeticoes>`
+`python src/arquivo.py <protocolo> <mensagem> <tamanho_bytes> <repeticoes>`
 
 ### Passo a passo
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git
+    git clone [https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git](https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git)
     cd Comparacao-de-Desempenho-TCP-e-UDP
     ```
 
@@ -43,27 +49,27 @@ Os scripts esperam argumentos na seguinte ordem:
     Escolha o protocolo (tcp ou udp) e defina os parâmetros.
     * **Linux/Mac:**
       ```bash
-      python3 servidor.py tcp "Teste" 1024 100
+      python3 src/servidor.py tcp "Teste" 1024 100
       ```
     * **Windows:**
       ```bash
-      python servidor.py tcp "Teste" 1024 100
+      python src/servidor.py tcp "Teste" 1024 100
       ```
 
 3.  **Inicie o Cliente:**
     Em outro terminal, execute o cliente com os mesmos parâmetros para iniciar a transmissão.
     * **Linux/Mac:**
       ```bash
-      python3 cliente.py tcp "Teste" 1024 100
+      python3 src/cliente.py tcp "Teste" 1024 100
       ```
     * **Windows:**
       ```bash
-      python cliente.py tcp "Teste" 1024 100
+      python src/cliente.py tcp "Teste" 1024 100
       ```
 
 ## 📊 Cenários de Teste
 
-Os arquivos `.txt` no repositório contêm resultados de testes realizados em diferentes meios físicos:
+A pasta `testes/` contém logs de execuções realizadas em diferentes meios físicos:
 * **Localhost:** Comunicação interna na mesma máquina.
 * **Cabo-Cabo:** Dois computadores conectados via Ethernet.
-* **Wi-Fi:** Comunicação via rede sem fio.
+* **Wi-Fi:** Comunicação via rede sem fio (avaliando perda e latência).
