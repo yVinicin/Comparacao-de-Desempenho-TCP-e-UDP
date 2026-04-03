@@ -41,7 +41,7 @@ Certifique-se de ter o **Python 3** instalado. Como os scripts estão na pasta `
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git](https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git)
+    git clone https://github.com/yVinicin/Comparacao-de-Desempenho-TCP-e-UDP.git
     cd Comparacao-de-Desempenho-TCP-e-UDP
     ```
 
